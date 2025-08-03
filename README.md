@@ -14,7 +14,8 @@
 
 
 ## Front
-![image](https://github.com/user-attachments/assets/6a1d9e54-8cb1-4477-8195-8a8cf8396414)
+<img width="929" height="924" alt="image" src="https://github.com/user-attachments/assets/74448255-abeb-4177-85c8-52cec70817c3" />
+
 
 
 ## Cabling
